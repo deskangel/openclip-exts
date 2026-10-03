@@ -1,14 +1,14 @@
 {
   "actions" : [
     {
-      "id" : "easydict.openclip.deskangel.2026",
       "icon" : "carbon:ibm-watson-language-translator",
+      "id" : "easydict.openclip.deskangel.2026",
+      "script" : "main.applescript",
       "title" : "Easydict",
-      "type" : "url",
-      "url" : "easydict://query?text={query}"
+      "type" : "applescript"
     }
   ],
   "identifier" : "easydict.openclip.deskangel.2026",
   "name" : "Easydict",
-  "version" : "1.0.1"
+  "version" : "1.0.2"
 }
